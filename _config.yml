@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jennifer Hanley"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Flagstaff, AZ"
   employer         : "Lowell Observatory"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@SpaceGirlFiles"
+  twitter          : # "@SpaceGirlFiles"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -75,10 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  popular:
+    title: 'Popular Articles'
   manuscripts:
     title: 'Journal Articles'    
+  whitepapers:
+    title: 'White Papers'
   conferences:
     title: 'Conference Papers'
 
